@@ -24,7 +24,7 @@ jobs:
           serverURL: "http://localhost:8000"
           clientID: "client:dai:agent:integration"
           testConfigID: "2fa6e754-a238-4654-9ba7-a354d0dc973e" # Test configuration which need to perform execution
-          clientSecret: "17c59ce6-26b3-4716-bc35-5e6971a5b836" # Eggplant DAI service client secret
+          clientSecret: "a6a57e53-5151-454d-823f-f27acb6a7e27" # Eggplant DAI service client secret
           # gitlabAccessToken: ""
           # Alternatively, DAI client secret can be set as repo secret
           # by going to GitHub Settings > Secrets > Actions
